@@ -1,6 +1,6 @@
-These are just notes that i have made for myself.
+<h2>These are just notes that i have made for myself.
 You can read this, but it has most likely nothing to do with what i have mentioned e.g. a post in a blog/forum and so on.
-Also since this is my own notebook for writing this down for myself i will not talk in english.
+Also since this is my own notebook for writing this down for myself i will not talk in english.</h2>h2>
 
 <hr>
 
