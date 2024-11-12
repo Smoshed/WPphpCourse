@@ -4,12 +4,12 @@ Also since this is my own notebook for writing this down for myself i will not t
 
 -------------------------------------------------------
 
-<code><a href="<?php echo site_url('/blog'); ?>" class="btn btn--yellow">View All Blog Posts</a></code>
+<a href="<?php echo site_url('/blog'); ?>" class="btn btn--yellow">View All Blog Posts</a>
 Deze code wordt gebruikt om een link te maken. Dit kan handig zijn als je links gebruikt binnen het zelfde domein.
-Zo hoef je dus nooit het domein te gebruiken. E.g. <code><?php echo site_url('/blog'); ?></code>
+Zo hoef je dus nooit het domein te gebruiken. E.g. <?php echo site_url('/blog'); ?>
 
 -------------------------------------------------------
 
 in de admin, wordpress maakt gebruik van dashicons. Zie: https://developer.wordpress.org/resource/dashicons/#database-import
-Deze worden vaak gebruikt wanneer je een nieuwe <code>post_type</code> registreerd. Zo kan je zoals bijvoorbeeld: Posts of Pages ook een Event hebben of een agenda toevoegen
+Deze worden vaak gebruikt wanneer je een nieuwe post_type registreerd. Zo kan je zoals bijvoorbeeld: Posts of Pages ook een Event hebben of een agenda toevoegen
 En ga zo maar door.
