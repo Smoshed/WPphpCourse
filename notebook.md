@@ -13,3 +13,10 @@ Zo hoef je dus nooit het domein te gebruiken. E.g. <?php echo site_url('/blog');
 in de admin, wordpress maakt gebruik van dashicons. Zie: https://developer.wordpress.org/resource/dashicons/#database-import
 Deze worden vaak gebruikt wanneer je een nieuwe post_type registreerd. Zo kan je zoals bijvoorbeeld: Posts of Pages ook een Event hebben of een agenda toevoegen
 En ga zo maar door.
+
+--------------------------------------------------------
+
+'posts_per_page' => 2, 
+zorgt ervoor dat posts op de voorpagina vertoont worden en hoeveel keer.
+-1 betekend dat hij uit staat. Boven de 1 is de aantal die hij waar geeft op de voorpagina.
+Of de pagina waar de code in staat.
