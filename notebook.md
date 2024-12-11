@@ -20,3 +20,11 @@ En ga zo maar door.
 zorgt ervoor dat posts op de voorpagina vertoont worden en hoeveel keer.
 -1 betekend dat hij uit staat. Boven de 1 is de aantal die hij waar geeft op de voorpagina.
 Of de pagina waar de code in staat.
+
+
+-------------------------------------------------------
+
+wanneer je werkt in de commanline van bijvoorbeeld VS Code
+Dan gebruik "npm install" om hem te installeren.
+Zorg ervoor dat je wel https://nodejs.org/en geinstalleerd heb
+Vervolgens kan je dan in de commandline van de code editor "npm run start" typen
