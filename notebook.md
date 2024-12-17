@@ -24,7 +24,7 @@ Of de pagina waar de code in staat.
 
 -------------------------------------------------------
 
-wanneer je werkt in de commanline van bijvoorbeeld VS Code
+wanneer je werkt in de commandline van bijvoorbeeld VS Code
 Dan gebruik "npm install" om hem te installeren.
 Zorg ervoor dat je wel https://nodejs.org/en geinstalleerd heb
 Vervolgens kan je dan in de commandline van de code editor "npm run start" typen
