@@ -1,4 +1,4 @@
-Nothing much to see here.
+<center>Nothing much to see here.</center>
 
 <!--
 
