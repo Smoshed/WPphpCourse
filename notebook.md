@@ -28,3 +28,9 @@ wanneer je werkt in de commanline van bijvoorbeeld VS Code
 Dan gebruik "npm install" om hem te installeren.
 Zorg ervoor dat je wel https://nodejs.org/en geinstalleerd heb
 Vervolgens kan je dan in de commandline van de code editor "npm run start" typen
+
+------------------------------------------------------
+
+Nieuw course die je ook zou kunnen volgen
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Q7nb85-EW6ve4X-p&amp;list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
