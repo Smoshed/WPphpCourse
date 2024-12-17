@@ -1,3 +1,7 @@
+Nothing much to see here.
+
+<!--
+
 <h3>These are just notes that i have made for myself.
 You can read this, but it has most likely nothing to do with what i have mentioned e.g. a post in a blog/forum and so on.
 Also since this is my own notebook for writing this down for myself i will not talk in english.</h3>
@@ -33,3 +37,5 @@ Vervolgens kan je dan in de commandline van de code editor "npm run start" typen
 
 Nieuw course die je ook zou kunnen volgen:
 https://youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih&si=SPTGdtZPm_EfF3fR
+
+-->
